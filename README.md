@@ -2,7 +2,7 @@
 
  Meu nome é Rafaela Cassiano
 
- -estou estudando no alura
+ -estou estudando no [alura] (https://www.alura.com.br)
  
  -Estou no desenvolvimento na linguagem javaScript
 
