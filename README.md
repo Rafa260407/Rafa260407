@@ -1,4 +1,4 @@
-## Boas vindas ao meu perfil 👋
+## Boas vindas ao meu perfil 🤍
 
  Meu nome é Rafaela Cassiano
 
@@ -8,3 +8,5 @@
 
  Para entrar em contato comigo
  0000110644503xsp@al.educacao.sp.gov.br
+ 
+![](https://media1.tenor.com/m/VZopxy6unYkAAAAC/good-morning.gif)
